@@ -1,4 +1,6 @@
-FIRST EVER MICROSOFT Q# PROGRAMMING QUINE THAT RUNS ON THE LATEST Q# LANGUAGE API AND QUANTUM DEVELOPMENT KIT WITH VISUAL STUDIO CODE (LATEST) AS THE IDE...
+QSQuine.qs, KateMarie.qs, KATEMM.qs
+
+FIRST EVER MICROSOFT Q# PROGRAMMING QUINES THAT RUNS ON THE LATEST Q# LANGUAGE API AND QUANTUM DEVELOPMENT KIT WITH VISUAL STUDIO CODE (LATEST) AS THE IDE...
 
 https://en.wikipedia.org/wiki/Quine_(computing)
 
@@ -13,6 +15,8 @@ https://en.wikipedia.org/wiki/Self-replicating_machine
 Note: You Must Use ASCII Letters For Q# Source Code Filenames... 
 
 ~alCoPaUL,HAsAsIN[NaCl],beth GviLLErMo[GIMO],Zelotes ni Isa[ZnI],Brigada Ocho[b8] | for Evelyn Trainor-Fogleman #16 & Kate Marie Martin #27
+
+FINAL.C EDITION : APRIL 2, 2026 / NYC
 
 FINAL.B EDITION : APRIL 1, 2026 - NYC
 
